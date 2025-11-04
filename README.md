@@ -25,7 +25,7 @@ MonkeyChat! is a simple client-server chat written in pure C and GTK4 using sock
 |---	|---	|
 | GTK 	| 4.0+ 	|
 
-## Buiding
+## Building 
 
 ```bash
 git clone https://github.com/Wilder122/Ucode-Uchat.git
